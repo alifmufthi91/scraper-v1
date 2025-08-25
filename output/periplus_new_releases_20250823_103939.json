@@ -1,0 +1,252 @@
+{
+  "site_name": "periplus",
+  "category": "new_releases",
+  "total_books": 24,
+  "pages_scraped": 1,
+  "books": [
+    {
+      "title": "The Ascent of the Matterhorn : INCLUDING THE FORGOTTEN...",
+      "author": "",
+      "price": "Rp 486,000",
+      "image_url": "https://static.periplus.com/tHDTqiHSk2rHpogFDbFCOSaGnpiZQAYg9ONiSOX44LB8rUiB3p96td8ZvvSsqINIw--",
+      "product_url": "http://www.periplus.com/p/9781783341825/the-ascent-of-the-matterhorn-including-the-forgotten-photographs?path=1",
+      "availability": "Hardcover",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.129047"
+    },
+    {
+      "title": "Kindling",
+      "author": "",
+      "price": "Rp 318,000",
+      "image_url": "https://static.periplus.com/gcwSrvg2.8plD5IevLyUSA9GMWF5FIVs83BLujwXaPGXmyKETF9z16T9aImAAsBVQ--",
+      "product_url": "http://www.periplus.com/p/9780008702144/kindling?path=1",
+      "availability": "Paperback",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.129425"
+    },
+    {
+      "title": "Arsène Who?: The Story of the Wenger Revolution",
+      "author": "",
+      "price": "Rp 252,000",
+      "image_url": "https://static.periplus.com/pDb0aGlorOK29WjLVIvCkkaU5f77o2et74tsxrq_XWJv2buKC9mNEkXz7JH_s8Isg--",
+      "product_url": "http://www.periplus.com/p/9781788404556/ars-ne-who-the-story-of-the-wenger-revolution?path=1",
+      "availability": "Paperback",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.129793"
+    },
+    {
+      "title": "Lost and Never Found: The Twisty Third Book in the...",
+      "author": "",
+      "price": "Rp 246,000",
+      "image_url": "https://static.periplus.com/ht3JebIzmGuNIjwc4cvS8JDewSPDHKBZ1GgA11vroxernFWMBhLp0H4fCsp7ksmOA--",
+      "product_url": "http://www.periplus.com/p/9781529425895/lost-and-never-found-the-twisty-third-book-in-the-di-ryan-wilkins-mysteries?path=1",
+      "availability": "Paperback",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.130155"
+    },
+    {
+      "title": "What Are You Feeling?: A Picture Book of Your Emotions...",
+      "author": "",
+      "price": "Rp 224,000",
+      "image_url": "https://static.periplus.com/qdiS.FFUKtchi1SeCTF4EdvNMKno44L1FAo3CedmLEGytxSvkV7iuHAQVnzmF5Ksg--",
+      "product_url": "http://www.periplus.com/p/9781916753181/what-are-you-feeling-a-picture-book-of-your-emotions?path=1",
+      "availability": "Paperback",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.130522"
+    },
+    {
+      "title": "The Garden Club Murders",
+      "author": "",
+      "price": "Rp 318,000",
+      "image_url": "https://static.periplus.com/nEWhbLRfu3QxvO3RCA_1WSfrdptFsT0Il1csrCvuo3Uf1FIGOjEhmWl4RAVfewtJg--",
+      "product_url": "http://www.periplus.com/p/9780008626457/the-garden-club-murders?path=1",
+      "availability": "Paperback",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.130897"
+    },
+    {
+      "title": "The Teachings of a Stoic: Selected Discourses and ...",
+      "author": "",
+      "price": "Rp 170,000",
+      "image_url": "https://static.periplus.com/jbL4E30PgAekvzKTKG0b7M7mlwTEizzIqt476Dyp61BndAUq17vL1u31gr_xhJ85g--",
+      "product_url": "http://www.periplus.com/p/9780008729981/the-teachings-of-a-stoic-selected-discourses-and-the-encheiridion?path=1",
+      "availability": "Paperback",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.131256"
+    },
+    {
+      "title": "Poetry Prescription: Becoming",
+      "author": "",
+      "price": "Rp 224,000",
+      "image_url": "https://static.periplus.com/ihYGtx3yKpltFseTHwTcb2h1Xdlk5L2mQwZlMTCFLgOjVTGCm3YBWd4ISheGE6Ouw--",
+      "product_url": "http://www.periplus.com/p/9781035061495/poetry-prescription-becoming?path=1",
+      "availability": "Hardcover",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.131615"
+    },
+    {
+      "title": "The Oasis Activity Book: An Unofficial Lovefest",
+      "author": "",
+      "price": "Rp 252,000",
+      "image_url": "https://static.periplus.com/gE.AxqcNt0607g8.WnlaWFEXBmqOUeYLV0tLgmtCMhBdNQ0Zh7Ft2jCKBgwduv7eA--",
+      "product_url": "http://www.periplus.com/p/9780008748470/the-oasis-activity-book-an-unofficial-lovefest?path=1",
+      "availability": "Paperback",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.131994"
+    },
+    {
+      "title": "The Little Book of Intuition",
+      "author": "",
+      "price": "Rp 218,000",
+      "image_url": "https://static.periplus.com/gMk5D1Zx9ffnG4IuNa0jSVzy22WN3PooofS_31hA4AdZIfOJ3JafII6FrTLSNIxXQ--",
+      "product_url": "http://www.periplus.com/p/9781841816395/the-little-book-of-intuition?path=1",
+      "availability": "Hardcover",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.132357"
+    },
+    {
+      "title": "Normally Weird and Weirdly Normal: My Adventures in...",
+      "author": "",
+      "price": "Rp 486,000",
+      "image_url": "https://static.periplus.com/uGX2cFJZWIRZot_rsJkzPsREPCh_WV.b8cEbf_2kUMjwKs.iIqsrQvNNMkGmjIWEg--",
+      "product_url": "http://www.periplus.com/p/9781035036929/normally-weird-and-weirdly-normal-my-adventures-in-neurodiversity?path=1",
+      "availability": "Hardcover",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.132721"
+    },
+    {
+      "title": "Harry Potter School Years Scrapbook",
+      "author": "",
+      "price": "Rp 386,000",
+      "image_url": "https://static.periplus.com/lNgASH.32_xQaRBShB_DO_NHtQhpASJ6a4Lvgs8pk5KcmqgrJAscCOM59TV.1972g--",
+      "product_url": "http://www.periplus.com/p/9781667206202/harry-potter-school-years-scrapbook?path=1",
+      "availability": "Hardcover",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.133084"
+    },
+    {
+      "title": "Howards End: With an Introduction by David Nicholls...",
+      "author": "",
+      "price": "Rp 448,000",
+      "image_url": "https://static.periplus.com/nc0STvXEs80PmDevhyAD7xpFLjYvQcE2pgiYSEMS2fY6T6eiAdamKY5rn6agzlaEQ--",
+      "product_url": "http://www.periplus.com/p/9781399736190/howards-end-with-an-introduction-by-david-nicholls-bestselling-author-of-you-are-here?path=1",
+      "availability": "Hardcover",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.133435"
+    },
+    {
+      "title": "Wind/ Pinball",
+      "author": "",
+      "price": "Rp 242,000",
+      "image_url": "https://static.periplus.com/vYmESI4KXpWq9TuR4f88U9o.Dbr5SGgimS9CXJM0mVW3cnujUNtGa_8F.pe_U5nMg--",
+      "product_url": "http://www.periplus.com/p/9781529957747/wind-pinball?path=1",
+      "availability": "Paperback",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.133797"
+    },
+    {
+      "title": "Beyblade X, Vol. 3",
+      "author": "",
+      "price": "Rp 201,000",
+      "image_url": "https://static.periplus.com/m7BzIxTKm3verzHH8IHdLkhXg4ZB6MwotA4vhCh1tamc6wqjv45pkzmYbdZK_1sUQ--",
+      "product_url": "http://www.periplus.com/p/9781974755189/beyblade-x-vol-3?path=1",
+      "availability": "Paperback",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.134157"
+    },
+    {
+      "title": "Speak, Memorably: The Art of Captivating an Audience...",
+      "author": "",
+      "price": "Rp 560,000",
+      "image_url": "https://static.periplus.com/jpsUBzfCVSlEihfTF9KZjg8xDs_gAGj0FjrG9zgRZrV5y1QMROfi5yVWTIgxodbkg--",
+      "product_url": "http://www.periplus.com/p/9780063415195/speak-memorably-the-art-of-captivating-an-audience?path=1",
+      "availability": "Hardcover",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.134521"
+    },
+    {
+      "title": "Anima Rising",
+      "author": "",
+      "price": "Rp 503,000",
+      "image_url": "https://static.periplus.com/nJw6D9RZi49JHHSg8CCshT8eLnT6w55eSog3AFsGFb531KQLOb.LShIcYOGSlQRTA--",
+      "product_url": "http://www.periplus.com/p/9780062434159/anima-rising?path=1",
+      "availability": "Hardcover",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.134892"
+    },
+    {
+      "title": "The Falklands Factor: The Battle That Changed the ...",
+      "author": "",
+      "price": "Rp 673,000",
+      "image_url": "https://static.periplus.com/oq1RLhnD1d1hf2D2PNrDl9GPR_sdH6F_1dWJ7babZRpZu6GrJUN.TCspDFs11dNKQ--",
+      "product_url": "http://www.periplus.com/p/9781739164072/the-falklands-factor-the-battle-that-changed-the-shape-of-ships?path=1",
+      "availability": "Hardcover",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.135255"
+    },
+    {
+      "title": "Politics and the People: Scotland, 1945-1979",
+      "author": "",
+      "price": "Rp 795,000",
+      "image_url": "https://static.periplus.com/mLxVn3VgRZ1f_LrnyGpr.Ip78AzuyfaX16gyBs7M9RdO73jOjQHOUSBFjpr8h7g8g--",
+      "product_url": "http://www.periplus.com/p/9781474456999/politics-and-the-people-scotland-1945-1979?path=1",
+      "availability": "Paperback",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.135596"
+    },
+    {
+      "title": "Digital Death, Digital Assets and Post-Mortem Privacy...",
+      "author": "",
+      "price": "Rp 795,000",
+      "image_url": "https://static.periplus.com/lU1arYaOZsgay0y8oTiOXOuMKpr_2DW8pNLzOrEAlc3SUcPSQ1nOW6QmBRCtYRj1Q--",
+      "product_url": "http://www.periplus.com/p/9781474485371/digital-death-digital-assets-and-post-mortem-privacy-theory-technology-and-the-law?path=1",
+      "availability": "Paperback",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.135945"
+    },
+    {
+      "title": "Games of No Chance 6",
+      "author": "",
+      "price": "Rp 4,513,000",
+      "image_url": "https://static.periplus.com/vz1ISVuQVxF8rkmqfCQCujqJZpdmgvhuvXFdvPBE76z80M.ZT3Fscj55QNHAEn4FQ--",
+      "product_url": "http://www.periplus.com/p/9781009565523/games-of-no-chance-6?path=1",
+      "availability": "Hardcover",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.136301"
+    },
+    {
+      "title": "The Teachings of the Stoics Book and Card Deck : Includes...",
+      "author": "",
+      "price": "Rp 456,000",
+      "image_url": "https://static.periplus.com/jrA5jxTgBv6fED8PUD0T_jenr_yl8l78fxwPZ4CtBYoLj5YW2pbvu2gaaeMzVJpwg--",
+      "product_url": "http://www.periplus.com/p/9781398851528/the-teachings-of-the-stoics-book-and-card-deck-includes-128-page-book-and-52-cards?path=1",
+      "availability": "Paperback",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.136664"
+    },
+    {
+      "title": "Descartes and the Non-Human",
+      "author": "",
+      "price": "Rp 985,000",
+      "image_url": "https://static.periplus.com/lMBMk5OJAc9Pj2uzLxLUE6RJ3amIQaJ_u4sZRkhBZPS71BeCXLhWOtW2uP0FVZQMw--",
+      "product_url": "http://www.periplus.com/p/9781009617147/descartes-and-the-non-human?path=1",
+      "availability": "Paperback",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.137025"
+    },
+    {
+      "title": "Disney: Colourmania Stitch",
+      "author": "",
+      "price": "Rp 214,000",
+      "image_url": "https://static.periplus.com/tamezONkNGnwqb5KLWVGJ4GivAtb1vCfDZUMHGcO4ZW.ta1arZIXF_cRlfwQjaE4A--",
+      "product_url": "http://www.periplus.com/p/9781836500360/disney-colourmania-stitch?path=1",
+      "availability": "Paperback",
+      "category": "new_releases",
+      "scraped_at": "2025-08-23 10:39:39.137376"
+    }
+  ],
+  "scraping_started": "2025-08-23 10:39:37.886855",
+  "scraping_completed": "2025-08-23 10:39:39.156406",
+  "success": true,
+  "errors": []
+}
